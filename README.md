@@ -2,55 +2,56 @@
 
 - Void Tech - Online Tech Shop
 
-An interactive Java-based e-commerce platform designed for purchasing PC components. Void Tech offers a seamless online shopping experience, allowing users to browse, compare, and buy hardware components.
+An interactive Java-based e-commerce platform designed for purchasing PC components. Void Tech offers a seamless online shopping experience, allowing users to browse, compare, and buy hardware components. Thankyou
 
 
 ## Authors
 
 - [@MD ZAHIDUL ISLAM](https://github.com/zahidofficial)
+- [@Azharul Islam](https://github.com/AzharSabbir)
 
 ## Demo
 
 <p align="center">
   <strong>Login page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_22-57-49.png" alt="Home Page" width="80%" />
+  <img src="https://i.ibb.co.com/jvm66V94/image-2025-03-07-22-57-49.png" alt="Home Page" width="80%" />
 </p>
 
 <p align="center">
   <strong>Signup Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-03-42.png" alt="Home Page" width="80%" />
+  <img src="https://i.ibb.co.com/jvm66V94/image-2025-03-07-22-57-49.png" alt="Home Page" width="80%" />
 </p>
 
 <p align="center">
   <strong>Password Recovery Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-02-48.png" alt="All Sports Equipment Page" width="80%" />
+  <img src="https://i.ibb.co.com/nMJmFVwF/image-2025-03-07-23-02-48.png" alt="All Sports Equipment Page" width="80%" />
 </p>
 
 <p align="center">
   <strong>Choose Components Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-00-17.png" alt="Add Sports Equipment Page" width="80%" />
+  <img src="https://i.ibb.co.com/0Rk42cWS/image-2025-03-07-23-00-17.png" alt="Add Sports Equipment Page" width="80%" />
 </p>
 
 <p align="center">
   <strong>Checkout Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-01-09.png" alt="View Details Equipment" width="80%" />
+  <img src="https://i.ibb.co.com/ZRG3y5L1/image-2025-03-07-23-01-09.png" alt="View Details Equipment" width="80%" />
 </p>
 
 <p align="center">
   <strong>Order Confirmation Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-01-55.png" alt="My Equipment List" width="80%" />
+  <img src="https://i.ibb.co.com/RprXCDg3/image-2025-03-07-23-01-55.png" alt="My Equipment List" width="80%" />
 </p>
 
 <p align="center">
-  <strong>Delivery Confirmation Page</strong>  
+  <strong>Delivery Information Page</strong>  
   <br>
-  <img src="c:\Users\mdzah\Downloads\image_2025-03-07_23-02-15.png" alt="Update Equipment Page" width="80%" />
+  <img src="https://i.ibb.co.com/v6hjPYhj/image-2025-03-07-23-02-15.png" alt="Update Equipment Page" width="80%" />
 </p>
 
 
